@@ -1,0 +1,79 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+entries:
+- title: sidebar
+  folders:
+
+  - title: Overview
+    output: web
+    folderitems:
+
+    - title: Getting started
+      url: /index.html
+      output: web
+      type: homepage
+
+    - title: About
+      url: /about.html
+      output: web
+
+  - title: Metacognition
+    output: web
+    folderitems:
+    
+    - title: Overview
+      url: /metacognition_overview.html
+      output: web
+      
+    - title: Planning
+      url: /metacognition_planning.html
+      output: web
+      
+    - title: Monitoring
+      url: /metacognition_monitoring.html
+      output: web
+      
+    - title: Evaluating
+      url: /metacognition_evaluation.html
+      output: web
+      
+  - title: Motivation
+    output: web
+    folderitems:
+  
+    - title: Overview
+      url: /motivation_overview.html
+      output: web
+      
+    - title: Mindset
+      url: /mindset.html
+      output: web
+      
+    - title: Self-Efficacy
+      url: /self-efficacy.html
+      output: web
+      
+    - title: Anxiety
+      url: /anxiety.html
+      output: web
+      
+    - title: Performance Orientation
+      url: /performance_orientation.html
+      output: web
+      
+  - title: Strategies
+    output: web
+    folderitems: 
+    
+      - title: Overview
+        url: /strategies_overview.html
+        output: web
+        
+      - title: Managing Learning
+        url: /managing_learning.html
+        output: web
+        
+      - title: Deepning Learning
+        url: /deepening_learning.html
+        output: web
+
