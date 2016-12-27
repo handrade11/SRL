@@ -36,6 +36,14 @@ entries:
     - title: Evaluating
       url: /metacognition_evaluation.html
       output: web
+    
+    - title: Profiles
+      url: /metacognition_profile.html
+      output: web
+      
+    - title: Recommendations
+      url: /metacognition_recommendations.html
+      output: web
       
   - title: Motivation
     output: web

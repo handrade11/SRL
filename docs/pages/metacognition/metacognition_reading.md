@@ -8,8 +8,15 @@ series: "Getting Started"
 weight: 10
 sidebar: mydoc_sidebar
 permalink: metacognition_reading.html
-folder: mydoc
+folder: metacognition
 ---
+
+<ul class="breadcrumb">
+    <li><a href="index.html">Home</a></li>
+    <li><a href="metacognition_overview.html">Metacognition</a></li>
+    <li class="active">Reading</li>
+</ul>
+
 
 ## Metacognition Reading Strategies
 

@@ -5,9 +5,14 @@ keywords:
 summary: "Metacognition depicts your ability to “think about your thinking.” It requires you to plan (set realistic learning goals), monitor (track your progress towards those goals), adapt (changes your learning strategy when goal achievement is impeded), and evaluate (upon completion of a task, compare your performance to the initial goals)."
 sidebar: mydoc_sidebar
 permalink: metacognition_overview.html
-folder: mydoc
+folder: metacognition
 toc: false
 ---
+
+<ul class="breadcrumb">
+    <li><a href="index.html">Home</a></li>
+    <li class="active">Metacognition</li>
+</ul>
 
 ## Metacognition: Planning, Monitoring, and Evaluation
 
@@ -79,5 +84,12 @@ when completing most learning tasks
              </div>
          </div>
 </div>
+
+
+## Additional Resources
+
+* [Click here to read real-life scenarios about using metacognition skills (planning, monitoring, and evaluation).](metacognition_profile.html)
+* [Click here for recommendations on how to improve your metacognition skills (planning, monitoring, evaluation).](metacognition_recommendations.html)
+
 
 <div class="embed-responsive embed-responsive-16by9"><iframe width="853" height="480" src="https://www.youtube.com/embed/iKiBOFGyCwo?autoplay=0"></iframe></div>

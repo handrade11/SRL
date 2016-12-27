@@ -5,26 +5,24 @@ tags:
 sidebar: mydoc_sidebar
 permalink: about.html
 toc: false
-summary: The Diagnostic Assessment and Achievement of College Skills and the Self-Regulated Learning Lab is funded by the Department of Education in the Fund for the Improvement of Postsecondary Education First in the World grant program. Excelsior College is working in partnership with Western Governors University, Rutgers University, and the University at Albany. DAACS is an open source project. Institutions are free to use and adapt DAACS for the specific needs of their students.
 ---
 
-
-## About
-
-
-
-
-## Project Personnel
+The Diagnostic Assessment and Achievement of College Skills and the Self-Regulated Learning Lab is funded by the Department of Education in the Fund for the Improvement of Postsecondary Education First in the World grant program. Excelsior College is working in partnership with Western Governors University, Rutgers University, and the University at Albany. DAACS is an open source project. Institutions are free to use and adapt DAACS for the specific needs of their students.
 
 <div class="container">
-
 <div class="row">
 <div class="col-md-3 col-sm-6 text-center vcenter"><img src="images/Excelsior.png" width="120"></div>
 <div class="col-md-3 col-sm-6 text-center vcenter"><img src="images/WGU.png" width="120"></div>
 <div class="col-md-3 col-sm-6 text-center vcenter"><br/><img src="images/Rutgers.jpg" width="150"></div>
 <div class="col-md-3 col-sm-6 text-center vcenter"><img src="images/UAlbany.png" width="150"></div>
 </div>
-    
+</div>
+
+
+## Project Personnel
+
+
+<div class="container">
 <div class="row">
 
 <div class="col-md-4">
@@ -64,11 +62,16 @@ summary: The Diagnostic Assessment and Achievement of College Skills and the Sel
 <b>David Franklin</b>, M.S.<br />
 </div>
 
-      </div>
+</div>
+</div><!-- Container -->
 
+## Selected References
 
+Chick, N. (2016). Metacognition. In *Vanderbilt University Center for Teaching*. Retrieved from https://cft.vanderbilt.edu/guides-sub-pages/metacognition/
 
-      </div><!-- Container -->
+Tanner, K. D. (2012). Promoting student metacognition. *Cell Biology Education – Life Sciences Education, 11*, 113-120. doi: 10.1187/cbe.12-03-0033
 
+Teaching Excellence in Adult Literacy (TEAL) Center (2012, February). Fact sheet: Metacognitive processes. In *Teaching Excellence in Adult Literacy*. Retrieved from https://teal.ed.gov/tealguide/metacognitive
 
+Cleary, T. J. (2014). *Development of SRL strategies* – SREP guide
 
