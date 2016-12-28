@@ -27,7 +27,7 @@ Making changes to the way you plan, monitor, and evaluate your thinking during a
 
 <div class="row">
          <div class="col-lg-12">
-             <h2 class="page-header">Learn more about the four stages of metacogntion</h2>
+             <h2 class="page-header">Learn more about the improving your metacognition</h2>
          </div>
          <div class="col-md-4 col-sm-6">
              <div class="panel panel-default text-center">
