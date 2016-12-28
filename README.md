@@ -1,6 +1,6 @@
 ### DAACS Self-Regulated Learning Lab
 
-The repository hosts the [Self-Regulated Learning Lab](https://excelsiorcollege.github.io/SRL/) that supports the [Diagnostic Assessment & Achievement of College Skills (DAACS)](http://daacs.net).
+The repository hosts the [Self-Regulated Learning Lab](http://srl.daacs.net) that supports the [Diagnostic Assessment & Achievement of College Skills (DAACS)](http://daacs.net).
 
 **NOTE: This site is currently under development. Please do not copy or use any materials here without prior permission.**
 

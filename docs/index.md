@@ -29,7 +29,7 @@ summary: The Self-Regulated Learning Lab supports the feedback provided by the D
                  </div>
                  <div class="panel-body">
                      <h4>Motivation</h4>
-                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                     <p>Motivation is literally the desire to do things.</p>
                      <a href="motivation_overview.html" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
@@ -44,7 +44,7 @@ summary: The Self-Regulated Learning Lab supports the feedback provided by the D
                  </div>
                  <div class="panel-body">
                      <h4>Metacognition</h4>
-                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                     <p>Metacognition depicts your ability to “think about your thinking.”</p>
                      <a href="metacognition_overview.html" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
@@ -59,7 +59,7 @@ summary: The Self-Regulated Learning Lab supports the feedback provided by the D
                  </div>
                  <div class="panel-body">
                      <h4>Strategies</h4>
-                     <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit.</p>
+                     <p>Strategies deals with managing and deepening learning.</p>
                      <a href="strategies_overview.html" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
