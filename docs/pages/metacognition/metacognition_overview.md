@@ -35,7 +35,7 @@ when completing most learning tasks
 
 <div class="row">
          <div class="col-lg-12">
-             <h2 class="page-header">Learn more about the four stages of metacognition</h2>
+             <h2 class="page-header">Learn more about the three stages of metacognition</h2>
          </div>
          <div class="col-md-4 col-sm-6">
              <div class="panel panel-default text-center">
