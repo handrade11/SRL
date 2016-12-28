@@ -8,6 +8,3 @@ folder: motivation
 toc: false
 ---
 
-## Performance Orientation
-
-

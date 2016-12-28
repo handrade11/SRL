@@ -8,6 +8,4 @@ folder: motivation
 toc: false
 ---
 
-## Mindset
-
-
+<div class="embed-responsive embed-responsive-16by9"><iframe width="853" height="480" src="https://www.youtube.com/embed/xe4U4f5aP7s?autoplay=0"></iframe></div>

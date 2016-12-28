@@ -52,3 +52,6 @@ To find out how you can improve your self-efficacy, and to learn more about the 
 * [Click here for recommendations on how to improve your self-efficacy.](self-efficacy_recommendations.html)
 * Contact your academic advisor or faculty mentor.
 
+
+<div class="embed-responsive embed-responsive-16by9"><iframe width="853" height="480" src="https://www.youtube.com/embed/zWuyOJd90Ug?autoplay=0"></iframe></div>
+
