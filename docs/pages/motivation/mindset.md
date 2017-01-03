@@ -8,6 +8,12 @@ folder: motivation
 toc: false
 ---
 
+<ul class="breadcrumb">
+    <li><a href="index.html">Home</a></li>
+    <li><a href="motivation_overview.html">Motivation</a></li>
+    <li class="active">Mindset</li>
+</ul>
+
 
 **What is Growth and Fixed Mindset?**
 
