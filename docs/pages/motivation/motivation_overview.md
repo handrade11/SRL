@@ -17,9 +17,6 @@ toc: false
 
 <center><img src='images/motivation.png' alt='Motivation' /></center>
 
-<div class="embed-responsive embed-responsive-16by9"><iframe width="853" height="480" src="https://www.youtube.com/embed/joEBW4aOUDY?autoplay=0"></iframe></div>
-
-
 <div class="row">
          <div class="col-lg-12">
              <h2 class="page-header">Learn more about the four aspects of motivation</h2>
@@ -49,7 +46,7 @@ toc: false
                  </div>
                  <div class="panel-body">
                      <h4>Self-Efficacy</h4>
-                     <p></p>
+                     <p>Self-efficacy refers to a person’s beliefs in his or her ability to do something.</p>
                      <a href="self-efficacy.html" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
@@ -85,5 +82,8 @@ toc: false
              </div>
          </div>
 </div>
+
+<div class="embed-responsive embed-responsive-16by9"><iframe width="853" height="480" src="https://www.youtube.com/embed/joEBW4aOUDY?autoplay=0"></iframe></div>
+
 
 

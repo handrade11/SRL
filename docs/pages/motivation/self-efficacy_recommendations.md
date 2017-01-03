@@ -5,7 +5,7 @@ keywords:
 sidebar: mydoc_sidebar
 permalink: self-efficacy_recommendations.html
 folder: motivation
-toc: true
+toc: false
 ---
 
 <ul class="breadcrumb">
