@@ -62,7 +62,7 @@ If you exhibited a Fixed Mindset, we encourage you to learn how to adopt a more 
 
 #### How Can I Learn More?
 
-* [CClick here to see how mindset can influence the way you think, feel, and act](mindset_influence.html)
+* [Click here to see how mindset can influence the way you think, feel, and act](mindset_influence.html)
 * [Click here to read real-life scenarios about the power of mindset.](mindset_profile.html)
 
 
