@@ -38,8 +38,7 @@ Ben continued to attend class, but became less motivated to pay attention and mo
 > Notice how Ben’s belief that his ability will not change led him to ponder whether he should drop out. What would happen if Ben exhibited a Growth Mindset? Would he value the information he learned?
 
 
-## **AFTER** receiving SRL feedback – Ben began to adopt a **GROWTH**
-mindset:
+## **AFTER** receiving SRL feedback – Ben began to adopt a **GROWTH** mindset:
 
 Rewind to the moment after Ben received his poor midterm grade, when he decided he must be “bad at science” and started to give up. Because Ben realized that the SRL survey feedback was helpful in improving his strategic behaviors, he began looking at the Mindset feedback. Ben was shocked to learn that he was someone who has typically displayed a Fixed Mindset. But he wanted to change that: “Because I have done well in school at certain times, maybe I do have the ability – I just have not been that “intelligent” in how I prepared for the exam. I only studied the night before the exam and didn’t get much sleep. If I can change how I prepare, maybe I can do better.”
 
