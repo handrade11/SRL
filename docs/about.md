@@ -11,10 +11,10 @@ The Diagnostic Assessment and Achievement of College Skills and the Self-Regulat
 
 <div class="container">
 <div class="row">
-<div class="col-md-3 col-sm-6 text-center vcenter"><img src="images/Excelsior.png" width="120"></div>
-<div class="col-md-3 col-sm-6 text-center vcenter"><img src="images/WGU.png" width="120"></div>
-<div class="col-md-3 col-sm-6 text-center vcenter"><br/><img src="images/Rutgers.jpg" width="150"></div>
-<div class="col-md-3 col-sm-6 text-center vcenter"><img src="images/UAlbany.png" width="150"></div>
+<div class="col-md-3 col-sm-6 text-center vcenter"><a href="http://excelsior.edu" target="_blank"><img src="images/Excelsior.png" width="120" border="0"></a></div>
+<div class="col-md-3 col-sm-6 text-center vcenter"><a href="http://wgu.edu" target="_blank"><img src="images/WGU.png" width="120" border="0"></a></div>
+<div class="col-md-3 col-sm-6 text-center vcenter"><br/><br/><a href="http://rutgers.edu" target="_blank"><img src="images/Rutgers.jpg" width="150" border="0"></a></div>
+<div class="col-md-3 col-sm-6 text-center vcenter"><a href="http://albany.edu" target="_blank"><img src="images/UAlbany.png" width="150" border="0"></a></div>
 </div>
 </div>
 
