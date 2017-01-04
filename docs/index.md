@@ -5,7 +5,7 @@ tags:
 sidebar: mydoc_sidebar
 permalink: index.html
 toc: false
-summary: The Self-Regulated Learning Lab supports the feedback provided by the Diagnostic Assessment and Achievement of College Skills (DAACS). This site provides information to help you become a more self-regulated learner.
+summary: The Self-Regulated Learning Lab supports the feedback provided by the Diagnostic Assessment and Achievement of College Skills (DAACS). This site provides information that can help you become a more successful student.
 ---
 
 
