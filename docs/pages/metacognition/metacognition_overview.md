@@ -2,7 +2,7 @@
 title: Metacognition
 tags: 
 keywords:
-summary: "Metacognition depicts your ability to “think about your thinking.” It requires you to plan (set realistic learning goals), monitor (track your progress towards those goals), adapt (changes your learning strategy when goal achievement is impeded), and evaluate (upon completion of a task, compare your performance to the initial goals)."
+summary: "Metacognition is your ability to “think about your thinking.” It requires you to plan (set realistic learning goals), monitor (track your progress towards those goals), adapt (changes your learning strategy when goal achievement is impeded), and evaluate (upon completion of a task, compare your performance to the initial goals)."
 sidebar: mydoc_sidebar
 permalink: metacognition_overview.html
 folder: metacognition
