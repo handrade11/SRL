@@ -58,13 +58,13 @@ The Diagnostic Assessment and Achievement of College Skills and the Self-Regulat
 <b>David Franklin</b>, M.S.<br />
 <b>Chelsea Barnet</b>, M.Ed.<br />
 <b>Jessica Stokes</b> <br />
-<b>Bracha Schnaidman</b> </br>
-<b>Nikki Schreihofer</b> </br>
-<b>Erica Pawlo</b> </br>
-<b>Jane Weyers</b>, Grants<br />
-<b>Bethany de Barros</b>, Grants<br />
-<b>Patti Croop</b>, Grants<br />
-<b>Donn Aiken</b>, Information Technology<br />
+<b>Bracha Schnaidman</b> <br />
+<b>Nikki Schreihofer</b> <br />
+<b>Erica Pawlo</b> <br />
+<b>Jane Weyers</b>, Grants <br />
+<b>Bethany de Barros</b>, Grants <br />
+<b>Patti Croop</b>, Grants <br />
+<b>Donn Aiken</b>, Information Technology <br />
 </div>
 
 </div>
