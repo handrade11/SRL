@@ -27,51 +27,63 @@ The Diagnostic Assessment and Achievement of College Skills and the Self-Regulat
 
 <div class="col-md-4">
 <h3>Project Director</h3>
-<b>Jason Bryer</b>, Ph.D., <br/>Excelsior College
+<b>Jason Bryer</b>, Ph.D.<br/>Excelsior College
     		
 <h3>Co-Project Directors</h3>
-<b>Timothy Cleary</b>, Ph.D., <br/>Rutgers University<br />
-<b>Heidi Andrade</b>, Ed.D., <br/>University at Albany
+<b>Timothy Cleary</b>, Ph.D.<br/>Rutgers University<br />
+<b>Heidi Andrade</b>, Ed.D.<br/>University at Albany
     
 <h3>Evaluator</h3>
-<b>Barbara Storandt</b>, <br/>ALTA Solutions Group, LLC
+<b>Barbara Storandt</b><br/>ALTA Solutions Group, LLC
 		
 </div>
 
 <div class="col-md-4">
 <h3>Advisory Committee</h3>
-<b>Jason Levin</b>, MBA, <br/>Western Governors University<br />
-<b>Phil Winne</b>, Ph.D., <br/>Simon Fraser University<br />
-<b>Ronald Dugan</b>, Ph.D., <br/>The College of Saint Rose<br />
-<b>Glenn Braddock</b>, Ph.D., <br/>Excelsior College<br />
-<b>Lisa Daniels</b>, Ph.D., <br/>Excelsior College<br />
-<b>Francesco Crocco</b>, Ph.D., <br/>Excelsior College<br />
+<b>Jason Levin</b>, MBA<br/>Western Governors University<br />
+<b>Phil Winne</b>, Ph.D.<br/>Simon Fraser University<br />
+<b>Ronald Dugan</b>, Ph.D.<br/>The College of Saint Rose<br />
+<b>Glenn Braddock</b>, Ph.D.<br/>Excelsior College<br />
+<b>Lisa Daniels</b>, Ph.D.<br/>Excelsior College<br />
+<b>Francesco Crocco</b>, Ph.D.<br/>Excelsior College<br />
 <b>Abbe Herzig</b>, Ph.D.<br />
 </div>
 
 <div class="col-md-4">
 <h3>Other Personnel</h3>
 <b>Marc Verdi</b>, Project Manager<br />
-<b>Jane Weyers</b>, Grants<br />
-<b>Bethany de Barros</b>, Grants<br />
-<b>Patti Croop</b>, Grants<br />
-<b>Donn Aiken</b>, Information Technology<br />
 <b>Angela Lui</b>, M.S.<br />
 <b>Diana Akhmedjanova</b>, M.S.<br />
 <b>Kara Hogan</b>, Ph.D.<br />
 <b>David Franklin</b>, M.S.<br />
+<b>Chelsea Barnet</b>, M.Ed.<br />
+<b>Jessica Stokes</b> <br />
+<b>Bracha Schnaidman</b> </br>
+<b>Nikki Schreihofer</b> </br>
+<b>Erica Pawlo</b> </br>
+<b>Jane Weyers</b>, Grants<br />
+<b>Bethany de Barros</b>, Grants<br />
+<b>Patti Croop</b>, Grants<br />
+<b>Donn Aiken</b>, Information Technology<br />
 </div>
 
 </div>
 </div><!-- Container -->
 
+
+
 ## Selected References
 
 Chick, N. (2016). Metacognition. In *Vanderbilt University Center for Teaching*. Retrieved from https://cft.vanderbilt.edu/guides-sub-pages/metacognition/
+
+Cleary, T. J. (2014). *Development of SRL strategies* – SREP guide
+
+Duckworth, A. (2016). *Grit: The Power of Passion and Perseverance*. Scribner. 
+
+Dweck, C. (2009). *Mindset: The New Psychology of Success*. Ballantine Books.
 
 Tanner, K. D. (2012). Promoting student metacognition. *Cell Biology Education – Life Sciences Education, 11*, 113-120. doi: 10.1187/cbe.12-03-0033
 
 Teaching Excellence in Adult Literacy (TEAL) Center (2012, February). Fact sheet: Metacognitive processes. In *Teaching Excellence in Adult Literacy*. Retrieved from https://teal.ed.gov/tealguide/metacognitive
 
-Cleary, T. J. (2014). *Development of SRL strategies* – SREP guide
 
