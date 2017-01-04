@@ -14,6 +14,7 @@ summary: The Self-Regulated Learning Lab supports the feedback provided by the D
 
 ## Getting Started
 
+Self-regulated learners set goals, plan their learning, monitor their progress, and make adjustments to how they study, think, and feel in order to meet their learning goals.
 
 <div class="row">
          <div class="col-lg-12">

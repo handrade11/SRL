@@ -77,7 +77,7 @@ toc: false
                  <div class="panel-body">
                      <h4>Performance Orientation</h4>
                      <p></p>
-                     <a href="performance_orientatino.html" class="btn btn-primary">Learn More</a>
+                     <a href="performance_orientation.html" class="btn btn-primary">Learn More</a>
                  </div>
              </div>
          </div>
