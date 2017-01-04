@@ -1,5 +1,5 @@
 ---
-title: Performance Orientation
+title: Performance Motivation
 tags: 
 keywords: 
 sidebar: mydoc_sidebar
@@ -16,7 +16,7 @@ toc: false
 
 
 
-## What is Performance Orientation?
+## What is Performance Motivation?
 
 Have you ever wondered certain things like, “Why am I working hard in this course?” or “What is it that pushes me to do try to perform well on something?” Learners can have many different reasons why they choose to engage in or work hard at a learning task – something educational psychologists call **goal orientation.** One type of goal orientation is a **performance orientation.** Learners with this type of orientation often want to perform well because they want to demonstrate that they are intelligent or capable. Whether they consciously think about it or not, these types of learners believe things like, “I am working hard in this course so that the professor thinks I’m intelligent” or “My primary focus is to do well on this project so that I get a high grade.” These learners tend to focus on the ***outcome*** (grades, recognition) of the learning task, and they often measure success by comparing themselves to others.
 
